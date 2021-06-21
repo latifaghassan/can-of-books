@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# Logistical
+1. What hours will you be available to communicate?
+* Between 2pm - 9pm
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+2. What platform will you use to communicate (ie. Slack, phone …)?
+* Slack, Zoom.
 
-## Available Scripts
+3. How often will you take breaks?
+* About one hour.
 
-In the project directory, you can run:
+4. What is your plan if you start to fall behind?
+* Ask for help from our collegues or TA's.
 
-### `npm start`
+# Cooperative
+1. Make a list of each parson’s strengths.
+* Rawan: Organize the tasks.
+* Latifa: Giving clear ideas for the code.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+2. How can you best utilize these strengths in the development of your application?
+* By sharing it with each other and take the feedback for improve our experience. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+3. In what areas do you each want to develop greater strength?
+* Both of us need to improve time management.
 
-### `npm test`
+4. Knowing that every person in your team needs to understand the code, how do you plan to approach the day-to-day development?
+* Give every one a chance to recape and for asking to clarify the points that aren't clear.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Conflict Resolution
+1. What will your team do if one person is pulling all the weight while the other person is not contributing?
+* Give him some tasks to do and if he didn't did it then we can tell one of the TA'S. 
 
-### `npm run build`
+2. What will your team do if one person is taking over the project and not letting the other member contribute?
+* Try to talk with him to not let everything done by himself and if he refused then we will talk to the TA'S. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. How will you approach each other and the challenge of building an application knowing that it is impossible for two people to be at the exact same place in understanding and skill level?
+* We agree to meet each other in a specific time and place and each one of us doing the tasks that he is good at it.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---------------------------------------------------------------------------------------------------------------------------------------
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Can Of Books 
 
-### `npm run eject`
+**Author**: Rawan Khasawneh, Latifa Amaireh
+**Version**: 1.0.0 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Overview
+- To provide to the user a chance to store all his favourite book in one online-book-shielf.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Getting Started
+- Clone this repo to yuor local machine. 
+- Open the terminal and run " npm i ". 
+- Run " npm start ".
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Architecture
+We are using these technologies in this app : 
+- ReactJS.
+- Auth0.
+- Bootstrap library. 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Change Log
+20/6/2021 (2:00 - 8:00 pm) - Let the user sign in with OAuth, so that he can authenticate to the site without creating yet-another username/password combo. 
 
-## Learn More
+## Credit and Collaborations
+- Abdallah and saleh.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+----------------------------------------------------------------------------------------------------------------------------------------
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Name of feature:** Can of books.
 
-### Code Splitting
+**Estimate of time needed to complete:** 3 hours.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Start time:** 1:40.
 
-### Analyzing the Bundle Size
+**Finish time:** 8:00.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Actual time needed to complete:** 3:30.
