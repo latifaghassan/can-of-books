@@ -18,6 +18,7 @@ class BeastBooks extends React.Component {
                     </div>
                     </>
                 ))}
+                //nothing
             </>
         )
     }
