@@ -15,8 +15,8 @@ export class Profile extends Component {
         }
     }
 
-    componentDidMount = async () => {
-        await axios.get(`${this.state.serverUrl}/books?email=${this.state.userEmail}`).then(response => {
+    componentDidMount = () => {
+         axios.get(`${this.state.serverUrl}/books?email=${this.state.userEmail}`).then(response => {
             this.setState({
                 booksData: response.data[0].books
             })
